@@ -1,0 +1,27 @@
+h1 {
+    font-family: sans-serif;
+}
+
+p {
+    color:blue;
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    font-size: 16px;
+}
+
+#primeira-linha {
+    background-color: yellow;
+}
+#segunda-linha {
+    background-color: red;
+}
+#terceira-linha {
+    background-color: brown;
+}
